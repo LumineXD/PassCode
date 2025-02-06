@@ -1,5 +1,14 @@
 {
-  "root": "root@123",
-  "renren": "neinnein!!",
-  "user1": "buggy"
+  "root": {
+    "password": "root$1010",
+    "expired": "2030-12-30"
+  },
+  "guest": {
+    "password": "guest",
+    "expired": "2025-03-01"
+  },
+  "renren": {
+    "password": "renren@10",
+    "expired": "2025-03-06"
+  }
 }
