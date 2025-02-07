@@ -6,5 +6,8 @@
   "Root": {
     "password": "Root@_01",
     "expired": "2030-12-31"
-  }
+  },
+  "Testing": {
+    "password": "Testing",
+    "expired": "2025-02-05"
 }
