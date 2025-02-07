@@ -1,14 +1,18 @@
 {
   "Guest": {
-    "password": "Guest@1",
-    "expired": "2025-12-31"
+    "password": "Guest",
+    "expired": "2025-02-20"
   },
   "Root": {
-    "password": "Root@_01",
+    "password": "Root$123",
     "expired": "2030-12-31"
   },
-  "Testing": {
-    "password": "Testing",
-    "expired": "2025-02-05"
+  "Yumz": {
+    "password": "Yumz123",
+    "expired": "2025-03-06"
+  },
+  "Nova": {
+    "password": "Nova",
+    "expired": "2025-03-06"
   }
 }
