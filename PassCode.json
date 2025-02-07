@@ -1,14 +1,10 @@
 {
-  "root": {
-    "password": "root$1010",
-    "expired": "2030-12-30"
+  "Guest": {
+    "password": "Guest@1",
+    "expired": "2025-12-31T23:59:59Z"
   },
-  "guest": {
-    "password": "guest",
-    "expired": "2025-03-01"
-  },
-  "renren": {
-    "password": "renren@10",
-    "expired": "2025-03-06"
+  "Root": {
+    "password": "Root@_01",
+    "expired": "2030-12-31T23:59:59Z"
   }
 }
